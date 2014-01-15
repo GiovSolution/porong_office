@@ -1,0 +1,36 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-11-23 11:43:17 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 11:43:24 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 11:43:24 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 12:25:55 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 12:25:59 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 12:25:59 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 13:20:49 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:20:50 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 13:20:50 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 13:20:55 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 111
+ERROR - 2013-11-23 13:23:15 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:25:23 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:25:24 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 13:25:24 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 13:25:27 --> 404 Page Not Found --> c_master_serah_bahan/get_no_permintaan_produksi_list
+ERROR - 2013-11-23 13:25:27 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/porong_office/system/plugins/to_excel_pi.php:64) /Applications/MAMP/htdocs/porong_office/system/application/errors/error_404.php 1
+ERROR - 2013-11-23 13:34:08 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:34:18 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:34:49 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:35:18 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:35:46 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:36:54 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 13:36:54 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 13:39:58 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:40:00 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 13:40:00 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 13:43:50 --> 404 Page Not Found --> c_master_serah_bahan/get_no_permintaan_produksi_list
+ERROR - 2013-11-23 13:43:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/porong_office/system/plugins/to_excel_pi.php:64) /Applications/MAMP/htdocs/porong_office/system/application/errors/error_404.php 1
+ERROR - 2013-11-23 13:44:47 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:47:51 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 281
+ERROR - 2013-11-23 13:47:53 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 203
+ERROR - 2013-11-23 13:47:53 --> Severity: Notice  --> Undefined property: C_master_serah_bahan::$m_master_produksi /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_serah_bahan.php 193
+ERROR - 2013-11-23 13:47:54 --> 404 Page Not Found --> c_master_serah_bahan/get_no_permintaan_produksi_list
+ERROR - 2013-11-23 13:47:54 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/porong_office/system/plugins/to_excel_pi.php:64) /Applications/MAMP/htdocs/porong_office/system/application/errors/error_404.php 1

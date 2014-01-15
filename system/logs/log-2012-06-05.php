@@ -1,0 +1,34 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-06-05 12:06:07 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_perawatan.php 42
+ERROR - 2012-06-05 12:09:30 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_perawatan.php 42
+ERROR - 2012-06-05 12:10:45 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_perawatan.php 42
+ERROR - 2012-06-05 12:10:57 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_perawatan.php 42
+ERROR - 2012-06-05 12:11:04 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_perawatan.php 42
+ERROR - 2012-06-05 12:52:15 --> Severity: Notice  --> Undefined index:  dapaket_stat_dok D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 258
+ERROR - 2012-06-05 12:52:15 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_pajak D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 261
+ERROR - 2012-06-05 12:52:15 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_medis D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 262
+ERROR - 2012-06-05 16:18:43 --> Severity: Notice  --> Undefined index:  dapaket_stat_dok D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 251
+ERROR - 2012-06-05 16:18:43 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_pajak D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 254
+ERROR - 2012-06-05 16:18:43 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_medis D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 255
+ERROR - 2012-06-05 16:19:19 --> Severity: Notice  --> Undefined index:  dapaket_stat_dok D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 251
+ERROR - 2012-06-05 16:19:19 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_pajak D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 254
+ERROR - 2012-06-05 16:19:19 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_medis D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 255
+ERROR - 2012-06-05 16:20:59 --> Severity: Notice  --> Undefined index:  dapaket_stat_dok D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 251
+ERROR - 2012-06-05 16:20:59 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_pajak D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 254
+ERROR - 2012-06-05 16:20:59 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_medis D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 255
+ERROR - 2012-06-05 17:07:23 --> Severity: Notice  --> Undefined index:  dapaket_stat_dok D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 251
+ERROR - 2012-06-05 17:07:23 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_pajak D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 254
+ERROR - 2012-06-05 17:07:23 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_medis D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 255
+ERROR - 2012-06-05 17:09:01 --> Severity: Notice  --> Undefined index:  dapaket_stat_dok D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 251
+ERROR - 2012-06-05 17:09:01 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_pajak D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 254
+ERROR - 2012-06-05 17:09:01 --> Severity: Notice  --> Undefined index:  dapaket_nobukti_medis D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 255
+ERROR - 2012-06-05 17:18:47 --> Severity: Notice  --> Undefined index:  jrawat_diskon D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 538
+ERROR - 2012-06-05 17:18:52 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-06-05 17:24:14 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-06-05 17:24:20 --> Severity: Notice  --> Undefined index:  jrawat_diskon D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 346
+ERROR - 2012-06-05 17:24:23 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-06-05 17:24:33 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 744
+ERROR - 2012-06-05 17:24:33 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 745
+ERROR - 2012-06-05 17:24:33 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 751
+ERROR - 2012-06-05 17:24:39 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199

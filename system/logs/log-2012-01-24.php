@@ -1,0 +1,32 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-01-24 09:05:18 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:05:18 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:05:18 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 09:05:26 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-01-24 09:06:51 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:06:51 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:06:51 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 09:07:01 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-01-24 09:07:19 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:07:19 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:07:19 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 09:07:24 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-01-24 09:07:29 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:07:29 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:07:29 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 09:07:31 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:07:31 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:07:31 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 09:07:39 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-01-24 09:07:49 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:07:50 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:07:50 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 09:07:54 --> Severity: Notice  --> Undefined index:  kwitansi_cust D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 199
+ERROR - 2012-01-24 09:07:58 --> Severity: Notice  --> Undefined index:  jrawat_cashback D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 730
+ERROR - 2012-01-24 09:07:58 --> Severity: Notice  --> Undefined index:  jrawat_voucher D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 731
+ERROR - 2012-01-24 09:07:58 --> Severity: Notice  --> Undefined index:  jrawat_bayar D:\xampp\htdocs\mis\system\application\controllers\c_master_jual_rawat.php 737
+ERROR - 2012-01-24 15:56:44 --> Severity: Notice  --> Undefined index:  cabang D:\xampp\htdocs\mis\system\application\controllers\c_lap_terima_kas.php 94
+ERROR - 2012-01-24 15:56:44 --> Severity: Notice  --> Undefined index:  tgl_awal D:\xampp\htdocs\mis\system\application\controllers\c_lap_terima_kas.php 95
+ERROR - 2012-01-24 15:56:44 --> Severity: Notice  --> Undefined index:  tgl_akhir D:\xampp\htdocs\mis\system\application\controllers\c_lap_terima_kas.php 96
+ERROR - 2012-01-24 15:56:44 --> Severity: Notice  --> Undefined index:  periode D:\xampp\htdocs\mis\system\application\controllers\c_lap_terima_kas.php 97

@@ -1,0 +1,36 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-04-28 02:20:42 --> Severity: Notice  --> Undefined index:  satuan D:\xampp\htdocs\mis\system\application\controllers\c_hpp.php 33
+ERROR - 2012-04-28 02:20:45 --> Severity: Notice  --> Undefined index:  satuan D:\xampp\htdocs\mis\system\application\controllers\c_hpp.php 33
+ERROR - 2012-04-28 02:20:48 --> Severity: Notice  --> Undefined index:  satuan D:\xampp\htdocs\mis\system\application\controllers\c_hpp.php 33
+ERROR - 2012-04-28 03:55:03 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 144
+ERROR - 2012-04-28 03:55:03 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 145
+ERROR - 2012-04-28 03:55:03 --> Severity: Notice  --> Undefined index:  order_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 146
+ERROR - 2012-04-28 03:55:03 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 126
+ERROR - 2012-04-28 03:55:03 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 128
+ERROR - 2012-04-28 03:55:03 --> Severity: Notice  --> Undefined index:  order_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 129
+ERROR - 2012-04-28 03:55:06 --> Severity: Notice  --> Undefined index:  start D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 179
+ERROR - 2012-04-28 03:55:06 --> Severity: Notice  --> Undefined index:  limit D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 180
+ERROR - 2012-04-28 03:55:28 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 126
+ERROR - 2012-04-28 03:55:28 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 128
+ERROR - 2012-04-28 03:55:29 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 144
+ERROR - 2012-04-28 03:55:29 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 145
+ERROR - 2012-04-28 03:56:07 --> Severity: Notice  --> Undefined index:  start D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 179
+ERROR - 2012-04-28 03:56:07 --> Severity: Notice  --> Undefined index:  limit D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 180
+ERROR - 2012-04-28 04:27:25 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 126
+ERROR - 2012-04-28 04:27:25 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 128
+ERROR - 2012-04-28 04:27:25 --> Severity: Notice  --> Undefined index:  order_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 129
+ERROR - 2012-04-28 04:27:31 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 144
+ERROR - 2012-04-28 04:27:31 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 145
+ERROR - 2012-04-28 04:27:31 --> Severity: Notice  --> Undefined index:  order_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 146
+ERROR - 2012-04-28 04:27:33 --> Severity: Notice  --> Undefined index:  start D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 179
+ERROR - 2012-04-28 04:27:33 --> Severity: Notice  --> Undefined index:  limit D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 180
+ERROR - 2012-04-28 04:28:14 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 126
+ERROR - 2012-04-28 04:28:14 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 128
+ERROR - 2012-04-28 04:28:15 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 144
+ERROR - 2012-04-28 04:28:15 --> Severity: Notice  --> Undefined index:  master_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 145
+ERROR - 2012-04-28 04:33:46 --> Severity: Notice  --> Undefined index:  start D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 179
+ERROR - 2012-04-28 04:33:46 --> Severity: Notice  --> Undefined index:  limit D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 180
+ERROR - 2012-04-28 04:34:05 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 144
+ERROR - 2012-04-28 04:34:05 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 128
+ERROR - 2012-04-28 04:34:05 --> Severity: Notice  --> Undefined index:  selected_id D:\xampp\htdocs\mis\system\application\controllers\c_master_terima_beli.php 166

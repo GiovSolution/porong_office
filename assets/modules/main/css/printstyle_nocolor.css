@@ -1,0 +1,77 @@
+
+/* Printing Layout */
+table {
+	border-collapse: collapse;
+	border: 2px solid #0000;
+	font: normal arial, verdana, helvetica, sans-serif;
+	color: #000;
+	background: #fff;
+}
+caption {
+	padding: 0 0.6em 0.8em;
+	font-size: 1.3em;
+	font-weight: bold;
+	text-align: center;
+	color: #000;
+	background: transparent;
+}
+td, th {
+	border: 1px solid #000000;
+	padding: 0.1em;
+	text-align: inherit;
+	font-size: 0.9em;
+}
+thead th {
+	border: 1px solid #e0e0e0;
+	text-align: left;
+	font-size: 1em;
+	font-weight: bold;
+	background: transparent;
+}
+tfoot th, tfoot td {
+	border: 1px solid #e0e0e0;
+	text-align:inherit;
+	font-size: 1em;
+	background: transparent;
+}
+tfoot th {
+	font-weight: bold;
+}
+tbody td a {
+	background: transparent;
+	color: #00c;
+	text-decoration: underline;
+	text-align:inherit;
+}
+tbody td a:hover {
+	background: transparent;
+	color: #00c;
+	text-decoration: underline;
+}
+tbody th a {
+	background: transparent;
+	text-decoration: underline;
+	font-weight: bold;
+}
+tbody th a:visited {
+	color: #b98b00;
+}
+tbody th, tbody td {
+	vertical-align: top;
+	text-align: inherit;
+}
+tfoot td {
+	border: 1px solid #996;
+}
+tbody tr:hover {
+	background: #ffffd9;
+}
+
+.numeric{
+	text-align: right;
+}
+
+.clear{
+	border: none;
+	text-align:inherit;
+}

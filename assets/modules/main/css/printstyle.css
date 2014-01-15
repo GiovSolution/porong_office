@@ -1,0 +1,111 @@
+
+/* Printing Layout */
+table {
+	border-collapse: collapse;
+	border: 2px solid #3f7c5f;
+	font: normal 80%/140% arial, verdana, helvetica, sans-serif;
+	color: #000;
+	background: #fff;
+}
+caption {
+	padding: 0 0.6em 0.8em;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+	color: #000;
+	background: transparent;
+}
+td {
+	border: 1px solid #e0e0e0;
+	padding: 0em;
+	font-size: 0.8em;
+}
+tr {
+	border: 1px solid #e0e0e0;
+	padding: 2em;
+}
+
+th {
+	border: 1px solid #e0e0e0;
+	padding: 0em;
+	font-size: 0.8em;
+	background: #e8e8cf;
+}
+thead th {
+	border: 1px solid #e0e0e0;
+	text-align: center;
+	font-size: 0.8em;
+	font-weight: bold;
+	background: #c6d7cf;
+}
+tfoot th, tfoot td {
+	border: 1px solid #e0e0e0;
+	text-align: left;
+	font-size: 1em;
+	background: #e8e8cf;
+}
+tfoot th {
+	font-weight: bold;
+}
+tbody td a {
+	background: transparent;
+	color: #00c;
+	text-decoration: underline;
+	text-align:inherit;
+}
+tbody td a:hover {
+	background: transparent;
+	color: #00c;
+	text-decoration: underline;
+}
+tbody th a {
+	background: transparent;
+	color: #3f7c5f;
+	text-decoration: underline;
+	font-weight: bold;
+}
+tbody th a:visited {
+	color: #b98b00;
+}
+tbody th, tbody td {
+	vertical-align: top;
+	text-align: inherit;
+}
+tfoot td {
+	border: 1px solid #996;
+}
+tbody tr:hover {
+	background: #ffffd9;
+}
+
+.numeric{
+	text-align: right;
+}
+.title{
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.title_main{
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.clear{
+	border: none;
+}
+.foot{
+	border:  0px solid #996;
+	background: #e8e8cf;
+}
+
+.bayar{
+	border-collapse: collapse;
+	border: 0px solid #3f7c5f;
+	color: #000;
+	background: #fff;
+}
+.numeric_bayar{
+	text-align: right;
+	font-size: 1.2em;
+}

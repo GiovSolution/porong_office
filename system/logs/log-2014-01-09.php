@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-01-09 11:35:37 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_terima_beli.php 137
+ERROR - 2014-01-09 11:35:37 --> Severity: Notice  --> Undefined index:  master_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_terima_beli.php 138
+ERROR - 2014-01-09 11:35:37 --> Severity: Notice  --> Undefined index:  order_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_terima_beli.php 139
+ERROR - 2014-01-09 11:35:37 --> Severity: Notice  --> Undefined index:  master_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_terima_beli.php 119
+ERROR - 2014-01-09 11:35:37 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_terima_beli.php 121
+ERROR - 2014-01-09 11:35:37 --> Severity: Notice  --> Undefined index:  order_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_terima_beli.php 122
+ERROR - 2014-01-09 12:55:29 --> Severity: Notice  --> Undefined index:  master_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 32
+ERROR - 2014-01-09 12:55:29 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 34
+ERROR - 2014-01-09 12:55:29 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 35
+ERROR - 2014-01-09 12:55:29 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 36
+ERROR - 2014-01-09 12:55:29 --> Severity: Notice  --> Undefined property: C_supplier::$m_master_hasil_prod /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 40
+ERROR - 2014-01-09 12:57:30 --> Severity: Notice  --> Undefined index:  master_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 32
+ERROR - 2014-01-09 12:57:30 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 34
+ERROR - 2014-01-09 12:57:30 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 35
+ERROR - 2014-01-09 12:57:30 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 36
+ERROR - 2014-01-09 13:12:04 --> Severity: Notice  --> Undefined index:  master_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 32
+ERROR - 2014-01-09 13:12:04 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 34
+ERROR - 2014-01-09 13:12:04 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 35
+ERROR - 2014-01-09 13:12:04 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 36
+ERROR - 2014-01-09 13:12:12 --> Severity: Notice  --> Undefined index:  supplier_creator /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 218
+ERROR - 2014-01-09 13:12:12 --> Severity: Notice  --> Undefined index:  supplier_date_create /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 221
+ERROR - 2014-01-09 13:12:12 --> Severity: Notice  --> Undefined index:  supplier_update /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 222
+ERROR - 2014-01-09 13:12:12 --> Severity: Notice  --> Undefined index:  supplier_date_update /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 225
+ERROR - 2014-01-09 13:12:12 --> Severity: Notice  --> Undefined index:  supplier_revised /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 226
+ERROR - 2014-01-09 13:17:57 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 34
+ERROR - 2014-01-09 13:17:57 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 35
+ERROR - 2014-01-09 13:17:57 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 36
+ERROR - 2014-01-09 13:19:46 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_hasil_prod.php 158
+ERROR - 2014-01-09 13:19:46 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_hasil_prod.php 159
+ERROR - 2014-01-09 13:19:46 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_hasil_prod.php 160
+ERROR - 2014-01-09 13:19:46 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_hasil_prod.php 177
+ERROR - 2014-01-09 13:19:46 --> Severity: Notice  --> Undefined index:  serah_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_master_hasil_prod.php 179
+ERROR - 2014-01-09 13:22:59 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 45
+ERROR - 2014-01-09 13:22:59 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 46
+ERROR - 2014-01-09 13:22:59 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 47
+ERROR - 2014-01-09 13:22:59 --> Query error: 
+ERROR - 2014-01-09 13:23:18 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 45
+ERROR - 2014-01-09 13:23:18 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 46
+ERROR - 2014-01-09 13:23:18 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 47
+ERROR - 2014-01-09 13:25:03 --> Severity: Notice  --> Undefined index:  selected_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 45
+ERROR - 2014-01-09 13:25:03 --> Severity: Notice  --> Undefined index:  supplier_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 46
+ERROR - 2014-01-09 13:25:03 --> Severity: Notice  --> Undefined index:  produksi_id /Applications/MAMP/htdocs/porong_office/system/application/controllers/c_supplier.php 47
